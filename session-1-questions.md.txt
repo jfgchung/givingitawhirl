@@ -4,4 +4,8 @@ We're working with them as a research, professional development and curriculum p
 
 2. How do you plan to use GitHub in your classroom?
 
-I hoe to resharpen my coding skills, which are HTML-era and RUSTY. Time to come into this century fully!
+I hope to resharpen my coding skills, which are HTML-era and RUSTY. Time to come into this century fully!\
+
+3. What are ways that GitHub might help you and your students manage code?
+
+The ability to branch and resolve branches, work separately but parallel.
